@@ -1,0 +1,135 @@
+{
+    "title": "Título",
+    "description": "Descripción",
+    "image": "/favicon.ico",
+    "avatar": "/favicon.ico",
+    "name": "Nombre",
+    "skill": "Habilidad principal",
+    "location": "Localización",
+    "media": {
+        "email": "email@email.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com",
+        "likedin": "https://linkedin.com"
+    },
+    "about": "Descripción",
+    "technologies": [
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Tecnología"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Tecnología"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Tecnología"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "box-select",
+            "title": "Título",
+            "subtitle": "Subtítulo",
+            "description": "Descripción",
+            "date": "Años"
+        },
+        {
+            "icon": "box-select",
+            "title": "Título",
+            "subtitle": "Subtítulo",
+            "description": "Descripción",
+            "date": "Años"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "box-select",
+            "title": "Título",
+            "subtitle": "Subtítulo",
+            "description": "Descripción",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnología"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnología"
+                }
+            ],
+            "image": "/favicon.ico",
+            "url": "https://google.com",
+            "github": "https://github.com"
+        },
+        {
+            "icon": "box-select",
+            "title": "Título",
+            "subtitle": "Subtítulo",
+            "description": "Descripción",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnología"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnología"
+                }
+            ],
+            "image": "/favicon.ico",
+            "url": "https://google.com",
+            "github": "https://github.com"
+        },
+        {
+            "icon": "box-select",
+            "title": "Título",
+            "subtitle": "Subtítulo",
+            "description": "Descripción",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnología"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnología"
+                }
+            ],
+            "image": "/favicon.ico",
+            "url": "https://google.com",
+            "github": "https://github.com"
+        }
+    ],
+    "training": [
+        {
+            "icon": "box-select",
+            "title": "Título",
+            "subtitle": "Subtítulo",
+            "description": "Descripción",
+            "date": "Años",
+            "certificate": "https://google.com"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/favicon.ico",
+            "title": "Título",
+            "description": "Descripción",
+            "url": ""
+        },
+        {
+            "image": "/favicon.ico",
+            "title": "Título",
+            "description": "Descripción",
+            "url": ""
+        },
+        {
+            "image": "/favicon.ico",
+            "title": "Título",
+            "description": "Descripción",
+            "url": ""
+        }
+    ]
+}

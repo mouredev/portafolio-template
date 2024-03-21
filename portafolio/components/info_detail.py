@@ -57,7 +57,7 @@ def info_detail(info: Info) -> rx.Component:
         rx.cond(
             info.image != "",
             rx.image(
-                src="/favicon.ico",
+                src=info.image,
                 height=IMAGE_HEIGHT,
                 width="auto",
                 border_radius=EmSize.DEFAULT.value,

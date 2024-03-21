@@ -1,132 +1,128 @@
 {
-    "avatar": "/favicon.ico",
-    "name": "Nombre",
-    "title": "Habilidad principal",
-    "location": "Localización",
+    "title": "Thomas A. Anderson (Neo) | Portafolio",
+    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Thomas A. Anderson (Neo)",
+    "skill": "Programador, hacker y el Elegido",
+    "location": "Matrix y el mundo real",
     "media": {
-        "email": "email@email.com",
+        "email": "neo@metacortex.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com",
-        "likedin": "https://linkedin.com"
+        "github": "https://github.com/thomasanderson",
+        "likedin": "https://linkedin.com/in/thomasanderson"
     },
-    "about": "Descripción",
+    "about": "Soy un programador inquierto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
+            "name": "Binario"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
+            "name": "Ensamblador"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
+            "name": "COBOL"
+        },
+        {
+            "icon": "devicon-c-plain",
+            "name": "C"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
         }
     ],
     "experience": [
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "date": "Años"
+            "icon": "terminal",
+            "title": "Metacortex",
+            "subtitle": "Programador",
+            "description": "Programo software respetable desde un cubículo.",
+            "date": "1999"
         },
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "date": "Años"
+            "icon": "rabbit",
+            "title": "Nebuchadnezzar",
+            "subtitle": "El Elegido",
+            "description": "Me encargo de salvar el mundo.",
+            "date": "1999 - Actualidad"
         }
     ],
     "projects": [
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "icon": "bar-chart-4",
+            "title": "Software random",
+            "subtitle": "Software propiedad de Metacortex",
+            "description": "Herramienta para hacer rico a otras personas.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
                 },
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "icon": "devicon-django-plain",
+                    "name": "Django"
                 }
             ],
-            "image": "/favicon.ico",
-            "url": "https://google.com",
-            "github": "https://github.com"
+            "image": "/project_1.jpg",
+            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "github": "https://github.com/thomasanderson"
         },
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "icon": "bug-off",
+            "title": "Hackeo Matrix",
+            "subtitle": "Mi obra maestra",
+            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
-                },
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "name": "Binario"
                 }
             ],
-            "image": "/favicon.ico",
-            "url": "https://google.com",
-            "github": "https://github.com"
-        },
-        {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
-                },
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
-                }
-            ],
-            "image": "/favicon.ico",
-            "url": "https://google.com",
-            "github": "https://github.com"
+            "image": "/project_2.jpg",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
         }
     ],
     "training": [
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "date": "Años",
-            "certificate": "https://google.com"
+            "icon": "backpack",
+            "title": "Central West Junior High",
+            "subtitle": "Una escuela",
+            "description": "Aprendí cosas.",
+            "date": "Indeterminado",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Owen Patterson High",
+            "subtitle": "Otra escuela",
+            "description": "Aprendí más cosas.",
+            "date": "Indeterminado",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         }
     ],
     "extras": [
         {
-            "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
-            "url": ""
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
         },
         {
-            "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
-            "url": ""
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
         },
         {
-            "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
-            "url": ""
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
         }
     ]
 }

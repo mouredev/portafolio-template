@@ -13,7 +13,7 @@ def header(data: Data) -> rx.Component:
         ),
         rx.vstack(
             heading(data.name, True),
-            heading(data.title),
+            heading(data.skill),
             rx.text(
                 rx.icon("map-pin"),
                 data.location,

@@ -39,8 +39,23 @@ app = rx.App(
     style=BASE_STYLE,
     theme=rx.theme(
         appearance="dark",
-        accentColor="violet",
+        accent_color="grass",
         radius="full"
     )
 )
-app.add_page(index)
+
+title = DATA.title
+description = DATA.description
+image = DATA.image
+
+app.add_page(
+    index,
+    title=title,
+    description=description,
+    image=image,
+    meta=[
+        {"name": "og:title", "content": title},
+        {"name": "og:description", "content": description},
+        {"name": "og:image", "content": image}
+    ]
+)
