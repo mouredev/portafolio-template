@@ -41,6 +41,10 @@ Plantilla web para programadores desarrollada con la premisa de crear el "portaf
 * Formación
 * Extra
 
+**Demo: [https://portafolio-template.vercel.app/](https://portafolio-template.vercel.app/)**
+
+<a href="./live_demo.png"><img src="./live_demo.png" style="height: 50%; width:50%;"/></a>
+
 ## Instalación
 
 Puedes seguir la [guía oficial](https://reflex.dev/docs/getting-started/installation/) de Reflex.
@@ -68,7 +72,13 @@ Principalmente puedes configurar el contenido y el aspecto gráfico del sitio we
 
 ## Despliegue
 
-Próximamente...
+![Vercel](https://img.shields.io/github/stars/vercel/vercel?label=Vercel&style=social)
+
+El proyecto utiliza [Vercel](https://vercel.com) como hosting de recursos estáticos.
+
+Se configura el despliegue automático desde los archivos [vercel.json](./vercel.json) y [build.sh](./build.sh).
+
+Aquí tienes la [demo](https://portafolio-template.vercel.app/).
 
 ## Curso de Python desde cero
 ### Aprende Python desde sus fundamentos
