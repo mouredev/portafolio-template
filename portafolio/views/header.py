@@ -57,6 +57,7 @@ def header(data: Data) -> rx.Component:
                     padding_y=EmSize.BIG.value,
                 ),
                 spacing=Size.DEFAULT.value,
+                padding_x=EmSize.BIG.value,
             ),
         ),
     )
