@@ -1,0 +1,165 @@
+{
+    "title": "Edizon Leal | Portafolio",
+    "description": "I am a computer technology student",
+    "image": "/favicon.ico",
+    "avatar": "/avatar2.jpg",
+    "name": "Edizon Leal",
+    "skill": "Programador Junior",
+    "location": "Colombia bogota",
+    "media": {
+        "email": "edimez14@gmail.com",
+        "cv": "/data/curriculum edizon meza.pdf",
+        "github": "https://github.com/edimez14",
+        "likedin": "https://www.linkedin.com/in/edizon-meza-leal-abb0361b9/"
+    },
+    "about": "Computer Technology student, with one year of experience programming in python, c++, frontend, git and github. Interested in working as a Frontend Developer, Junior Backend Developer, Junior Data Analyst, Junior Test Engineer, Junior Research Assistant.",
+    "technologies": [
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Reflex dev"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Pygame"
+        },
+        {
+            "icon": "devicon-godot-plain",
+            "name": "Godot"
+        },
+        {
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-rust-original",
+            "name": "Rust"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-linux-plain",
+            "name": "linux"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "Metacortex",
+            "subtitle": "Programador",
+            "description": "Programo software respetable desde un cubículo.",
+            "date": "1999"
+        },
+        {
+            "icon": "rabbit",
+            "title": "Nebuchadnezzar",
+            "subtitle": "El Elegido",
+            "description": "Me encargo de salvar el mundo.",
+            "date": "1999 - Actualidad"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "orbit",
+            "title": "Planet Simulation",
+            "subtitle": "planetary simulator made with pygame",
+            "description": "simulator of the planetary orbits of our solar system",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Pygame"
+                }
+            ],
+            "image": "/work_1.jpg",
+            "url": "https://github.com/edimez14/planet_simulation",
+            "github": "https://github.com/edimez14/planet_simulation"
+        },
+        {
+            "icon": "flower-2",
+            "title": "florist decorator website",
+            "subtitle": "website for a florist designer",
+            "description": "website for a florist designer, where you can know a little about her, and you can see the decorations that she makes; there is also several ways to communicate with her and how to follow her on her social networks. ",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "Javascript"
+                }
+            ],
+            "image": "/work_2.jpg",
+            "url": "https://mlflorist.com/",
+            "github": "https://github.com/edimez14/ML-Florist-Decorator"
+        },
+        {
+            "icon": "key-round",
+            "title": "Password Generator",
+            "subtitle": "web application to generate random passwords with reflex",
+            "description": "Web application that generates passwords completely randomly, randomly selecting from a list that stores the generated passwords, created with the reflex dev framework.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Reflex dev"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Random"
+                }
+            ],
+            "image": "/work_3.jpg",
+            "url": "https://passwordgenerator.reflex.run/",
+            "github": "https://github.com/edimez14/password_generator/tree/web_version"
+        }
+    ],
+    "training": [
+        {
+            "icon": "terminal",
+            "title": "NDG Linux Unhatched certificate",
+            "subtitle": "course in the Cisco Networking Academy",
+            "description": "provides an introduction to the Linux command line.",
+            "date": "easy",
+            "certificate": "/data/edizonleal-NDG Linux Unhatc-certificate.pdf"
+        }
+    ],
+    "services": [
+        {
+            "icon": "gamepad-2",
+            "title": "Game Development",
+            "description": "I can provide video game development services because I use tools like Godot Engine, Blender and Pygame."
+        },
+        {
+            "icon": "cpu",
+            "title": "Technical support",
+            "description": "Help users with Linux or Windows related technical issues, such as installing software or resolving network issues."
+        },
+        {
+            "icon": "tangent",
+            "title": "UI/UX Design",
+            "description": "I use UI/UX design programs such as QT creator, QT designer and Godot Engine."
+        },
+        {
+            "icon": "rss",
+            "title": "Web Development",
+            "description": "I have basic knowledge in web development that will make me capable of creating, assembling and managing web pages."
+        }
+    ]
+}
