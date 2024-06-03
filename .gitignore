@@ -3,4 +3,4 @@
 .venv
 .web
 __pycache__/
-# public/
+public/
