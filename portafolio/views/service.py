@@ -1,18 +1,19 @@
 import reflex as rx
 from portafolio.components.card_detail import card_detail
 from portafolio.components.heading import heading
-from portafolio.data import Extra
+from portafolio.data import Service
 from portafolio.styles.styles import Size
 
 
-def extra(extras: list[Extra]) -> rx.Component:
+def service(services: list[Service]) -> rx.Component:
     return rx.vstack(
-        heading("Extra"),
+        heading("Service"),
+        heading("What can i do?"),
         rx.mobile_only(
             rx.vstack(
                 *[
-                    card_detail(extra)
-                    for extra in extras
+                    card_detail(service)
+                    for service in services
                 ],
                 spacing=Size.DEFAULT.value
             ),
@@ -21,14 +22,15 @@ def extra(extras: list[Extra]) -> rx.Component:
         rx.tablet_and_desktop(
             rx.grid(
                 *[
-                    card_detail(extra)
-                    for extra in extras
+                    card_detail(service)
+                    for service in services
                 ],
                 spacing=Size.DEFAULT.value,
-                columns="3"
+                columns="4"
             ),
             width="100%"
         ),
-        spacing=Size.DEFAULT.value,
+        align="center",
+        spacing=Size.MEDIUM.value,
         width="100%"
     )

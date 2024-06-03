@@ -112,24 +112,21 @@
             "certificate": "https://google.com"
         }
     ],
-    "extras": [
+    "services": [
         {
-            "image": "/favicon.ico",
+            "icon": "box-select",
             "title": "Título",
             "description": "Descripción",
-            "url": ""
         },
         {
-            "image": "/favicon.ico",
+            "icon": "box-select",
             "title": "Título",
             "description": "Descripción",
-            "url": ""
         },
         {
-            "image": "/favicon.ico",
+            "icon": "box-select",
             "title": "Título",
             "description": "Descripción",
-            "url": ""
         }
     ]
 }
