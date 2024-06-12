@@ -70,7 +70,7 @@ class Data:
         self.services = [Service(**info) for info in services]
 
 
-with open("assets/data/data.json") as file:
+with open("/data/data.json") as file:
     json_data = json.load(file)
 
 data = Data(**json_data)
