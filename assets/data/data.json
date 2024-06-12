@@ -1,38 +1,50 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "title": "Edizon Leal | Portafolio",
+    "description": "I am a computer technology student",
+    "image": "/favicon.ico",
+    "avatar": "/avatar2.jpg",
+    "name": "Edizon Leal",
+    "skill": "Programador Junior",
+    "location": "Colombia bogota",
     "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "email": "edimez14@gmail.com",
+        "cv": "/data/curriculum edizon meza.pdf",
+        "github": "https://github.com/edimez14",
+        "likedin": "https://www.linkedin.com/in/edizon-meza-leal-abb0361b9/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Computer Technology student, with one year of experience programming in python, c++, frontend, git and github. Interested in working as a Frontend Developer, Junior Backend Developer, Junior Data Analyst, Junior Test Engineer, Junior Research Assistant.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "name": "Reflex dev"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-python-plain",
+            "name": "Pygame"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-godot-plain",
+            "name": "Godot"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-rust-original",
+            "name": "Rust"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-linux-plain",
+            "name": "linux"
         }
     ],
     "experience": [
@@ -53,76 +65,101 @@
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "orbit",
+            "title": "Planet Simulation",
+            "subtitle": "planetary simulator made with pygame",
+            "description": "simulator of the planetary orbits of our solar system",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-python-plain",
+                    "name": "Pygame"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "image": "/work_1.jpg",
+            "url": "https://github.com/edimez14/planet_simulation",
+            "github": "https://github.com/edimez14/planet_simulation"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "flower-2",
+            "title": "florist decorator website",
+            "subtitle": "website for a florist designer",
+            "description": "website for a florist designer, where you can know a little about her, and you can see the decorations that she makes; there is also several ways to communicate with her and how to follow her on her social networks. ",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "Javascript"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/work_2.jpg",
+            "url": "https://mlflorist.com/",
+            "github": "https://github.com/edimez14/ML-Florist-Decorator"
+        },
+        {
+            "icon": "key-round",
+            "title": "Password Generator",
+            "subtitle": "web application to generate random passwords with reflex",
+            "description": "Web application that generates passwords completely randomly, randomly selecting from a list that stores the generated passwords, created with the reflex dev framework.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Reflex dev"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Random"
+                }
+            ],
+            "image": "/work_3.jpg",
+            "url": "https://passwordgenerator.reflex.run/",
+            "github": "https://github.com/edimez14/password_generator/tree/web_version"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "terminal",
+            "title": "NDG Linux Unhatched certificate",
+            "subtitle": "course in the Cisco Networking Academy",
+            "description": "provides an introduction to the Linux command line.",
+            "date": "easy",
+            "certificate": "/data/edizonleal-NDG Linux Unhatc-certificate.pdf"
         }
     ],
-    "extras": [
+    "services": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "icon": "gamepad-2",
+            "title": "Game Development",
+            "description": "I can provide video game development services because I use tools like Godot Engine, Blender and Pygame."
         },
         {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "icon": "cpu",
+            "title": "Technical support",
+            "description": "Help users with Linux or Windows related technical issues, such as installing software or resolving network issues."
         },
         {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "icon": "tangent",
+            "title": "UI/UX Design",
+            "description": "I use UI/UX design programs such as QT creator, QT designer and Godot Engine."
+        },
+        {
+            "icon": "rss",
+            "title": "Web Development",
+            "description": "I have basic knowledge in web development that will make me capable of creating, assembling and managing web pages."
         }
     ]
 }

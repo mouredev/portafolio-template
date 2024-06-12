@@ -2,7 +2,7 @@ import reflex as rx
 from portafolio.components.icon_badge import icon_badge
 from portafolio.components.icon_button import icon_button
 from portafolio.data import Info
-from portafolio.styles.styles import IMAGE_HEIGHT, EmSize, Size
+from portafolio.styles.styles import IMAGE_HEIGHT, EmSize, STYLESHEETS, Size
 
 
 def info_detail(info: Info) -> rx.Component:
