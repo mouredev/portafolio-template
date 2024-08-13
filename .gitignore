@@ -3,4 +3,5 @@
 .venv
 .web
 __pycache__/
+assets/external/
 public/

@@ -1,18 +1,18 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Jorge Andrés Nieto | Portafolio",
+    "description": "Si no sabes por dónde empezar, haz algo, el resto viene sólo",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Jorge Andrés Nieto",
+    "skill": "DevOps Engineer",
+    "location": "Valencia, España",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "andresnieto.jorge@gmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "likedin": "https://www.linkedin.com/in/jorge-andr%C3%A9s-nieto-14982a208/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un Desarrollador e Ingeniero DevOps apasionado por construir soluciones eficientes y escalables. Con una sólida experiencia en desarrollo full stack, automatización y gestión de infraestructuras con herramientas como Docker y Terraform, me especializo en optimizar procesos y facilitar la integración continua en equipos ágiles. Mi enfoque está en los detalles, pero siempre con la vista puesta en el impacto global de cada proyecto.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
@@ -38,17 +38,24 @@
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Brooktec",
+            "subtitle": "Desarrollador Full Stack",
+            "description": "Desarrollo de aplicaciones móviles híbridas con Ionic y Angular, con soporte backend en NodeJS",
+            "date": "2022-2023"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "cloud",
+            "title": "Capgemini",
+            "subtitle": "DevOps Intern",
+            "description": "Aprendizaje de la filosofía DevOps y metolodías ágiles, utilizando tecnologías como Docker, Jenkins y Terraform",
+            "date": "2023"
+        },
+        {
+            "icon": "cloud",
+            "title": "Onestic",
+            "subtitle": "DevOps Engineer",
+            "description": "Automatización de procesos de despliegue y gestión de infraestructuras en la nube con AWS y Azure. Virtualización con VmWare. Automatización de infraestructura con SaltStack. Implementación continua declarativa con ArgoCD. Orquestación de tareas con Argo Workflows. Servicios en la nube de Google Cloud. Orquestación de contenedores con Kubernetes.",
+            "date": "2024"
         }
     ],
     "projects": [
@@ -90,39 +97,26 @@
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Santander X Launch 4.0",
+            "description":"",
+            "subtitle": "Babson College",
+            "date": "2023"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Master Universitario en Ingeniería Informática",
+            "description":"",
+            "subtitle": "Universidad Politécnica de Valencia",
+            "date": "2023-Actualidad"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Grado en Ingeniería Informática (Ingeniería de Software)",
+            "description":"",
+            "subtitle": "Universidad de Valladolid",
+            "date": "2018-2023"
         }
     ],
     "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
     ]
 }
