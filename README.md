@@ -41,7 +41,7 @@ Plantilla web para programadores desarrollada con la premisa de crear el "portaf
 * Formación
 * Extra
 
-**Demo: [https://portafolio-template.vercel.app/](https://portafolio-template.vercel.app/)**
+**Demo: [https://portafoliotemplate.dev](https://portafoliotemplate.dev)**
 
 <a href="./live_demo.png"><img src="./live_demo.png" style="height: 50%; width:50%;"/></a>
 
