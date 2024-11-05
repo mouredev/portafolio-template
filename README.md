@@ -78,7 +78,7 @@ El proyecto utiliza [Vercel](https://vercel.com) como hosting de recursos estát
 
 Se configura el despliegue automático desde los archivos [vercel.json](./vercel.json) y [build.sh](./build.sh).
 
-Aquí tienes la [demo](https://portafolio-template.vercel.app/).
+Aquí tienes la [demo](https://portafoliotemplate.dev/).
 
 ## Curso de Python desde cero
 ### Aprende Python desde sus fundamentos
